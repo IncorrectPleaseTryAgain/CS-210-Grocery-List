@@ -1,6 +1,6 @@
 # Cpp_Program
 
-#Summarize the project and what problem it was solving.
+# Summarize the project and what problem it was solving.
 
 This project sorts an input file full of items into an output 
 file that contains every item and their frequency. The user then 
@@ -13,7 +13,7 @@ languages in a single program. This project uses C++ to get user input
 and to display to the terminal (frontend). This project uses Python 3 to
 read the input file, sort the data, and write to the output file (backend).
 
-#What did you do particularly well?
+# What did you do particularly well?
 
 In this project I was proficient in testing and making sure that user
 input would be validated. The code structure and it's functionality was
