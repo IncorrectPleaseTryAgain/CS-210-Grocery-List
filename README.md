@@ -19,9 +19,13 @@ In this project I was proficient in testing and making sure that user
 input would be validated. The code structure and it's functionality was
 done well, thus it is optimized with time and space complexity.
 
-#Where could you enhance your code? How would these improvements make your code more efficient,
-secure, and so on?
+# Where could you enhance your code?
+How would these improvements make your code more efficient, secure, and so on?
 
+To improve my program I could have created another cpp file to hold a class to 
+improve in Object Oriented Programming. I could have used different search and 
+sorting algorithms so that I could improve in time complexity, to make the 
+programming relatively run faster.
 
 #Which pieces of the code did you find most challenging to write, and how did you overcome this?
 What tools or resources are you adding to your support network?
