@@ -38,8 +38,12 @@ and building values.
 
 source: https://docs.python.org/3/c-api/arg.html
 
-#What skills from this project will be particularly transferable to other projects or course work?
+# What skills from this project will be particularly transferable to other projects or course work?
 
+Some skills that i learned from this project are designing and writing
+a program with multiple programming languages, reading and understanding
+documentation for problem solving, and designing code with the intent of
+using programming languages to their advantage.
 
 #How did you make this program maintainable, readable, and adaptable?
 
