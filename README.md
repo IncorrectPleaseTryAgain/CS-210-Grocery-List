@@ -15,6 +15,9 @@ read the input file, sort the data, and write to the output file (backend).
 
 #What did you do particularly well?
 
+In this project I was proficient in testing and making sure that user
+input would be validated. The code structure and it's functionality was
+done well, thus it is optimized with time and space complexity.
 
 #Where could you enhance your code? How would these improvements make your code more efficient,
 secure, and so on?
