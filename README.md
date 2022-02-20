@@ -45,5 +45,9 @@ a program with multiple programming languages, reading and understanding
 documentation for problem solving, and designing code with the intent of
 using programming languages to their advantage.
 
-#How did you make this program maintainable, readable, and adaptable?
+# How did you make this program maintainable, readable, and adaptable?
 
+To make this program maintanable, readable and adaptable I wrote clean
+and concise code that included comments when necessary, I used industry
+standard practices for the structure and design of the program, and I
+minimized redundancies.
