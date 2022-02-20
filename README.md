@@ -27,9 +27,16 @@ improve in Object Oriented Programming. I could have used different search and
 sorting algorithms so that I could improve in time complexity, to make the 
 programming relatively run faster.
 
-#Which pieces of the code did you find most challenging to write, and how did you overcome this?
+# Which pieces of the code did you find most challenging to write, and how did you overcome this?
 What tools or resources are you adding to your support network?
 
+I struggled in implementing/modifying the cpp functions that called a python function.
+I overcame this by reading the python documentation, using the internet to my advantage
+with the use of google, and by emailing my professor. Some resources that I added to my
+support network are website-stack overflow and documentation-Python 3.10.2 Parsing arguments
+and building values.
+
+source: https://docs.python.org/3/c-api/arg.html
 
 #What skills from this project will be particularly transferable to other projects or course work?
 
