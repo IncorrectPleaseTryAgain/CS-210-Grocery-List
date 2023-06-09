@@ -1,4 +1,4 @@
-# Cpp_Program
+# Cpp & Python | Grocery List
 
 # Summarize the project and what problem it was solving.
 
